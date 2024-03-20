@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: developer were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://resume.local
+Data file = C:\Users\Administrator\Local Sites\resume\app\public/wp-content/uploads/2024/03/demo-content-import-file_2024-03-19__22-48-15.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg" (Media)
+[ERROR] Failed to import "blog1" (Media)
+[ERROR] Failed to import "blog2" (Media)
+[ERROR] Failed to import "blog3" (Media)
+[ERROR] Failed to import "rlogo3" (Media)
+[ERROR] Failed to import "dev-bg" (Media)
+[ERROR] Failed to import "avatar" (Media)
+[ERROR] Failed to import "brand3_d" (Media)
+[ERROR] Failed to import "brand3_w" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "brand3" (Media)
+[ERROR] Failed to import "brand2_d" (Media)
+[ERROR] Failed to import "brand1_d" (Media)
+[ERROR] Failed to import "brand2_w" (Media)
+[ERROR] Failed to import "brand1_w" (Media)
+[ERROR] Failed to import "avatar2" (Media)
+
+
+---ocdi/after_import---
+

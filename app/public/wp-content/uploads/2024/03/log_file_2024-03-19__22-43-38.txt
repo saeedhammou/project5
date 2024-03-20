@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: developer were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://resume.local
+Data file = C:\Users\Administrator\Local Sites\resume\app\public/wp-content/uploads/2024/03/demo-content-import-file_2024-03-19__22-43-38.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/after_import---
+
